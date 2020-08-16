@@ -45,8 +45,6 @@ If a company offers less salary then they will lose the candidate but if they of
 
 ___ ADD GRAPHS FROM VISUALIZATION____
 
-[degree count plot](./graphs/degree_count.png)
-
 ### Developing Solutions
 
 #### Establishing the Baseline
