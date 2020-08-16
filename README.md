@@ -38,8 +38,8 @@ If a company offers less salary then they will lose the candidate but if they of
 
 #### Exploratory Data Analysis (EDA)
 - we have 8 columns and 2 of them are id columns
-- **year of experience** has a **positive correlation** of --- with salary
-- **miles from metropolis** has a **negative correlation** of --- with salary
+- **year of experience** has a **positive correlation** of **0.375013** with salary
+- **miles from metropolis** has a **negative correlation** of **-0.297686** with salary
 
 #### Data Visualization
 
