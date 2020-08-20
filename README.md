@@ -2,7 +2,7 @@
 
 Objective: Can we predict the right salary for the given job
 
-## Summary
+## Table of contents
 - Define Problem
     - Can we predict the right salary for the job description?
     - Goals
@@ -64,7 +64,7 @@ ___ ADD GRAPHS FROM VISUALIZATION____
 - **Automated** the **pipeline** with one-hot encoding
 - Predictions will be saved in an **EXCEL sheet** in a **comma Separated format(CSV)**
 
-## Summary
+## Table of Contents
 - Define Problem
     - Can we predict the right salary for the job description?
     - Goals

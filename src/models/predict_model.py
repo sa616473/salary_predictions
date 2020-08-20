@@ -8,5 +8,5 @@ def making_predictions(data, jobId):
     predictions = pd.DataFrame(predictions)
     predictions.columns = ['predicted_salary']
     predictions = pd.concat([jobId, predictions], axis=1)
-    predictions.to_csv('predicted_salary.csv')
+    predictions.to_csv('../src/reports/predictions/predicted_salary.csv')
     return predictions
