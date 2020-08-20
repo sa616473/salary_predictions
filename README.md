@@ -44,9 +44,7 @@ If a company offers less salary then they will lose the candidate but if they of
 |               |yearsExperience | milesFromMetropolis | salary
 -------------------| ------------------- | ------------------- |-------------------|
 |yearsExperience |1.000000 |0.000672 |0.375013|
--------------------| ------------------- | ------------------- |-------------------|
 |milesFromMetropolis |0.000672 |1.000000 |-0.297686|
--------------------| ------------------- | ------------------- |-------------------|
 |salary|0.375013|-0.297686 |1.000000|
 
 #### Data Visualization
