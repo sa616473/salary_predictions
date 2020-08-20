@@ -43,8 +43,18 @@ If a company offers less salary then they will lose the candidate but if they of
 
 #### Data Visualization
 
-___ ADD GRAPHS FROM VISUALIZATION____
+-- **Salary Distribution plot** --
+
 ![Image of Distribution plot of salaries](/reports/figures/graphs/png/salary_distribution.png)
+
+-- **job Type vs Salary box plot** --
+![Image of job type vs salary box plot](/reports/figures/graphs/png/jobType_salary_box.png)
+
+-- **Degree vs Salary violin plot** --
+![Image of Degree vs salary violin plot](/reports/figures/graphs/png/degree_salary_violin.png)
+
+-- **Count plot of degree vs jobtype**--
+![Image of degree vs jobtype count plot](/reports/figures/graphs/png/jobType_count.png)
 
 ### Developing Solutions
 
