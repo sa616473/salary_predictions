@@ -38,11 +38,22 @@ If a company offers less salary then they will lose the candidate but if they of
 
 #### Exploratory Data Analysis (EDA)
 - we have 8 columns and 2 of them are id columns
+Data columns (total 8 columns):
+ |#| |Column|               Non-Null Count|    Dtype|
+|--- | ------ |             --------------|    ----- |
+| 0   jobId              |  1000000 non-null|  object|
+| 1   companyId          |  1000000 non-null|  object|
+| 2   jobType            |  1000000 non-null|  object|
+| 3   degree             |  1000000 non-null|  object|
+| 4   major              |  1000000 non-null|  object|
+| 5   industry           | 1000000 non-null|  object|
+| 6   yearsExperience    |  1000000 non-null|  int64 |
+| 7   milesFromMetropolis|  1000000 non-null|  int64
 - **year of experience** has a **positive correlation** of **0.375013** with salary
 - **miles from metropolis** has a **negative correlation** of **-0.297686** with salary
 
 |               |yearsExperience | milesFromMetropolis | salary
--------------------| ------------------- | ------------------- |-------------------|
+|-------------------| ------------------- | ------------------- |-------------------|
 |yearsExperience |1.000000 |0.000672 |0.375013|
 |milesFromMetropolis |0.000672 |1.000000 |-0.297686|
 |salary|0.375013|-0.297686 |1.000000|
