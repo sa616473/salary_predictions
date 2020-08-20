@@ -39,8 +39,8 @@ If a company offers less salary then they will lose the candidate but if they of
 #### Exploratory Data Analysis (EDA)
 - we have 8 columns and 2 of them are id columns
 Data columns (total 8 columns):
- |#| |Column|               Non-Null Count|    Dtype|
-|--- | ------ |             --------------|    ----- |
+ |# |Column              |Non-Null Count    |Dtype|
+|--- |------             |--------------    |----- |
 | 0   jobId              |  1000000 non-null|  object|
 | 1   companyId          |  1000000 non-null|  object|
 | 2   jobType            |  1000000 non-null|  object|
