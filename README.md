@@ -44,8 +44,7 @@ If a company offers less salary then they will lose the candidate but if they of
 #### Data Visualization
 
 ___ ADD GRAPHS FROM VISUALIZATION____
-![Image of Distribution plot of salaries]
-(/reports/figures/graphs/png/salary_distribution.png)
+![Image of Distribution plot of salaries](/reports/figures/graphs/png/salary_distribution.png)
 
 ### Developing Solutions
 
