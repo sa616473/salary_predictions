@@ -60,6 +60,19 @@ Data columns (total 8 columns):
 |milesFromMetropolis |0.000672 |1.000000 |-0.297686|
 |salary|0.375013|-0.297686 |1.000000|
 
+- **Ditribution table of years of experience and miles from metropolis**
+
+|   |yearsExperience |milesFromMetropolis|
+|----|--------------|-------------------|
+|count |1000000.000000 |1000000.000000|
+|mean |11.992386 |49.529260|
+|std |7.212391 |28.877733|
+|min |0.000000 |0.000000|
+|25% |6.000000 |25.000000|
+|50% |12.000000 |50.000000|
+|75% |18.000000 |75.000000|
+|max |24.000000 |99.000000|
+
 #### Data Visualization
 
 -- **Salary Distribution plot** --
