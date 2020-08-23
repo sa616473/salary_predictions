@@ -119,7 +119,7 @@ My hypothesis was wrong someone with high school diploma can become CEO or CFO
 - **Automated** the **pipeline** with one-hot encoding
 - Predictions will be saved in an **EXCEL sheet** in a **comma Separated format(CSV)**
 
-## Table of Contents
+## Summary
 - Define Problem
     - Can we predict the right salary for the job description?
     - Goals
