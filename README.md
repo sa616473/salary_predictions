@@ -76,17 +76,26 @@ Data columns (total 8 columns):
 #### Data Visualization
 
 -- **Salary Distribution plot** --
+-> We have more salaries around the range of 100 to 150 compared to 50-100 and 150-200
 
 ![Image of Distribution plot of salaries](/reports/figures/graphs/png/salary_distribution.png)
 
 -- **job Type vs Salary box plot** --
+-> It looks like the CTO and CEO gets paid more than everyone else and the janitor is lowest among all
+
 ![Image of job type vs salary box plot](/reports/figures/graphs/png/jobType_salary_box.png)
 
 -- **Degree vs Salary violin plot** --
+-> The Doctoral and Masters majors on average get paid more than the bachelors. It looks like the NONE adn Highs Schools get paid the least
+
 ![Image of Degree vs salary violin plot](/reports/figures/graphs/png/degree_salary_violin.png)
 
 -- **Count plot of degree vs jobtype**--
+My hypothesis is that to be a CFO of a company you need at least a masters maybe they forgot to mention the requirment of the degree
+
 ![Image of degree vs jobtype count plot](/reports/figures/graphs/png/jobType_count.png)
+
+My hypothesis was wrong someone with high school diploma can become CEO or CFO
 
 ### Developing Solutions
 

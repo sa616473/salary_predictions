@@ -9,6 +9,11 @@ def visualization_plot(feature_x, data, feature_y=None,  hue=None, kde_line=Fals
     plot_type should in the fromat of a string
     '''
     plt.figure(figsize=size)
+    
+    if feature_y == None:
+        plt.title("{}_plot of {}".format(plot_type,feature_x))
+    else:
+        plt.title("{} vs {}".format(feature_x, feature_y))
 
     if plot_type == 'dist' or plot_type == 'distribution':  
         sns.distplot(data[feature_x],bins=bins, kde=kde_line)
